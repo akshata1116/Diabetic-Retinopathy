@@ -49,4 +49,3 @@ An interactive **web application** (Flask backend + React frontend) is also deve
 
 ---
 
-## 📂 Project Structure
